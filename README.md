@@ -66,6 +66,14 @@
                           <sub><b>Disha Sheth</b></sub>
                           </a>
                </td>
+		<td align="center">
+		            <a href="https://github.com/BansariSiddhapura">
+		            <img src="https://avatars.githubusercontent.com/u/143614440?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>bansari siddhapura</b></sub>
+		            </a>
+		</td>
+
 	       	   <td align="center">
 		          		 <a href="https://github.com/Abhay-Vachhani/">
 			 			 <img src="https://avatars.githubusercontent.com/u/84565477?v=4" width="100px;"/>
